@@ -8,7 +8,7 @@ My Page: *Coming Soon...
 ---
 ### METHODOLOGIES USED
 ```
-- *Vite*
+^ - *Vite*
 - *Javascript*
 - *Typescript*
 - *Sass*
