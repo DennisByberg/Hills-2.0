@@ -1,8 +1,7 @@
 import "./App.scss";
 
 function App() {
-  return <section>Hills</section>;
+  return <section>Test</section>;
 }
 
 export default App;
-
