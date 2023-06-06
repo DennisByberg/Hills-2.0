@@ -8,4 +8,10 @@
 > - *Vite*
 > - *Javascript*
 > - *Typescript*
+> - *Sass*
 ---
+### DISCORD
+```
+Do you want to help develop the app? Join the Discord: 
+```
+
