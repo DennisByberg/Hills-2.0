@@ -6,8 +6,10 @@
 ---
 ### METHODOLOGIES USED
 > - *Vite*
-> - *Typescript*
+> - *HTML*
+> - *CSS*
 > - *Javascript*
+> - *Typescript*
 > - *Sass*
 > - *Firebase*
 ---
