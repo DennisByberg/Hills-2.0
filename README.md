@@ -2,7 +2,7 @@
 
 ### PAGES
 - Original Page: https://www.hillsgolfclub.se/
-- My Page: *Coming Soon...*
+- My Page: https://hills-2-0.web.app/
 ---
 ### METHODOLOGIES USED
 > - *Vite*
