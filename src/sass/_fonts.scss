@@ -9,3 +9,9 @@
 @mixin fontFamilyHelvetica {
   font-family: Helvetica, sans-serif;
 }
+
+@import url("https://fonts.googleapis.com/css2?family=Waiting+for+the+Sunrise&display=swap");
+// font-family: 'Waiting for the Sunrise', cursive;
+@mixin fontFamilyWaitingForTheSunrise {
+  font-family: "Waiting for the Sunrise", cursive;
+}
