@@ -12,6 +12,7 @@
   &__hamburger-and-button-container {
     display: flex;
     gap: 3rem;
+    align-items: center;
   }
 
   &__hillsLogo-and-version-container {
@@ -28,7 +29,7 @@
 
   &__hillsLogo {
     filter: invert(1);
-    width: 10rem;
+    width: 11rem;
   }
 
   &__bli-medlem-btn {
@@ -39,11 +40,11 @@
     width: 10rem;
     border: none;
     background-color: $green;
-    border-radius: 0;
     color: $white;
     font-size: 1.2rem;
     font-weight: bold;
     border-radius: 3px;
+    height: 2.5rem;
 
     &:hover {
       cursor: pointer;
@@ -62,7 +63,7 @@
 @media only screen and (min-width: 501px) and (max-width: 750px) {
   .header {
     &__bli-medlem-btn {
-      width: 8rem;
+      display: none;
     }
   }
 }
@@ -72,6 +73,14 @@
   .header {
     &__bli-medlem-btn {
       display: none;
+    }
+    &__hillsLogo {
+      width: 5rem;
+    }
+    &__version {
+      top: -0.5rem;
+      font-size: 1.2rem;
+      font-weight: bold;
     }
   }
 }

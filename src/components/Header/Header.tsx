@@ -2,6 +2,7 @@
 import { useState } from "react";
 // components
 import Hamburger from "../Hamburger/Hamburger";
+import Toggle from "../Toggle/Toggle";
 // images
 import hillsLogo from "../../assets/Images/hillsLogo.png";
 // scss
@@ -17,7 +18,7 @@ function Header() {
       </div>
       <div className="header__hamburger-and-button-container">
         <button className="header__bli-medlem-btn">Bli Medlem</button>
-
+        <Toggle />
         <Hamburger isOpen={isOpen} setIsOpen={setIsOpen} />
       </div>
     </header>
