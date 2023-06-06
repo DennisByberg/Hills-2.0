@@ -8,10 +8,10 @@ My Page: *Coming Soon...
 ---
 ### METHODOLOGIES USED
 ```
-^ - *Vite*
-- *Javascript*
-- *Typescript*
-- *Sass*
+*Vite*
+*Javascript*
+*Typescript*
+*Sass*
 ```
 ---
 ### DISCORD
