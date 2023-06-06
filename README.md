@@ -9,6 +9,7 @@
 > - *Typescript*
 > - *Javascript*
 > - *Sass*
+> - *Firebase*
 ---
 ### DISCORD
 Do you want to help develop the app? Join the Discord: https://discord.gg/JBCKRWrN
